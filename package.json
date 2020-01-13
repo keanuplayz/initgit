@@ -1,5 +1,5 @@
 {
-  "name": "initgit",
+  "name": "initrepo",
   "version": "1.0.0",
   "description": "A personal CLI to initiate Git repositories.",
   "main": "index.js",
