@@ -1,6 +1,6 @@
 {
   "name": "@keanucode/initrepo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A personal CLI to initiate Git repositories.",
   "main": "index.js",
   "scripts": {

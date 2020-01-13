@@ -9,5 +9,5 @@ A personal CLI to initiate Git repositories.
 
 ## Installation Steps
 
-1. Run `npm i @keanucode/initrepo`
+1. Run `npm i -g @keanucode/initrepo`
 2. Run `initrepo`
