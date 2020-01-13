@@ -1,4 +1,4 @@
-# `initgit`
+# `initrepo`
 A personal CLI to initiate Git repositories.
 
 ## Requirements
@@ -9,5 +9,5 @@ A personal CLI to initiate Git repositories.
 
 ## Installation Steps
 
-1. Run `npm i initgit`
-2. Run `ginit`
+1. Run `npm i initrepo`
+2. Run `initrepo`
